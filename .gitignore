@@ -1,0 +1,12 @@
+.DS_Store
+.idea
+*.log
+tmp/
+
+
+kernel/
+*/target/*
+
+*.fd
+*.efi
+*.img
